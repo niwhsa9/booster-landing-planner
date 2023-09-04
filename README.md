@@ -1,8 +1,10 @@
 # landing-planner
 Direct collocation trajectory optimization for a reusable rocket booster system
 
-**Demo: ** https://www.youtube.com/watch?v=K-U8K1ciSDg
-**Report: ** https://github.com/niwhsa9/landing-planner/blob/main/Report.pdf
+**Demo:** https://www.youtube.com/watch?v=K-U8K1ciSDg
+
+**Report:** https://github.com/niwhsa9/landing-planner/blob/main/Report.pdf
+
 ![Demo run](https://github.com/niwhsa9/landing-planner/blob/main/anim.gif?raw=true)
 
 This planner optimizes a trajectory for a 2 dimensional rocket with the following dynamics: 
